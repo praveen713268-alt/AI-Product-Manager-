@@ -6,16 +6,18 @@ Built and maintained by Praveen Narendran — a Product Manager with experience 
 Use Cases Covered
 
 **1. Discovery & Research**
-  Customer Interview Synthesis — Cluster themes across dozens of transcripts and surface unmet needs
-  Competitive Teardown — Generate structured feature/positioning matrices from public sources
-  Market Sizing Drafts — Build TAM/SAM/SOM first drafts with assumptions called out
-  Jobs-to-be-Done Extraction — Convert raw user feedback into JTBD statements
+  
+Customer Interview Synthesis — Cluster themes across dozens of transcripts and surface unmet needs
+Competitive Teardown — Generate structured feature/positioning matrices from public sources
+Market Sizing Drafts — Build TAM/SAM/SOM first drafts with assumptions called out
+Jobs-to-be-Done Extraction — Convert raw user feedback into JTBD statements
 
 **2. Strategy & Planning**
-  PRD Generation & Critique — Draft PRDs from a one-liner; or have Claude red-team your existing PRD
-  OKR Drafting — Translate strategic themes into measurable objectives and key results
-  Roadmap Prioritization — RICE / WSJF / MoSCoW scoring with reasoning
-  Strategy Memos — Amazon-style 6-pagers and narrative memos from bullet points
+
+PRD Generation & Critique — Draft PRDs from a one-liner; or have Claude red-team your existing PRD
+OKR Drafting — Translate strategic themes into measurable objectives and key results
+Roadmap Prioritization — RICE / WSJF / MoSCoW scoring with reasoning
+Strategy Memos — Amazon-style 6-pagers and narrative memos from bullet points
 
 **3. Specification & Design**
   User Story Generation — Convert features into Gherkin-style acceptance criteria
