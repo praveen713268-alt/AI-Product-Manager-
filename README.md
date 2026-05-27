@@ -1,4 +1,4 @@
-# AI-Product-Manager-
+# AI Enabled Product Management
 This repository documents how Product Managers can leverage Claude (Anthropic's AI assistant) across the full product lifecycle — from discovery and strategy to execution and post-launch analysis. Each use case includes the business context, prompt patterns, sample inputs/outputs, and where applicable, integration code using the Anthropic API.
 
 Built and maintained by Praveen Narendran — a Product Manager with experience in IoT platforms, connected vehicle ecosystems, and embedded software. This repo reflects real workflows I've used or prototyped, not theoretical exercises.
